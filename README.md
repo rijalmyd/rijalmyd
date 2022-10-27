@@ -1,6 +1,6 @@
 # Hello everyone! 
 
-My name is **Gilang Ramadhan**.
+My name is **Rijal Muhyidin**.
 
 I am a **Student** at [Universitas Sains Al-Qur'an](https://unsiq.ac.id/) and also an Android Developer.
 
