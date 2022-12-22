@@ -2,7 +2,7 @@
 
 My name is **Rijal Muhyidin**.
 
-I am an Android Developer.
+I am an Android Developer and Machine Learning Enthusiast.
 
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/gilang-adhan/) account.
 
