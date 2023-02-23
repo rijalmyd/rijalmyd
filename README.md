@@ -4,7 +4,7 @@ My name is **Rijal Muhyidin**.
 
 I am an Android Developer and Machine Learning Enthusiast.
 
-If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/rijalmyd/) account.
+If you are interested in getting to know me, feel free to connect : [LinkedIn](https://www.linkedin.com/in/rijalmyd/)
 
 <p align="left">
   <a href="https://github.com/rijalmyd">
