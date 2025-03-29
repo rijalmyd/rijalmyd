@@ -4,9 +4,9 @@ My name is **Rijal Muhyidin**.
 
 I am an Android Developer and Machine Learning Enthusiast.
 
-If you are interested in getting to know me, feel free to connect : [LinkedIn](https://www.linkedin.com/in/rijalmyd/)
+If you are interested in getting to know me, feel free to connect : [LinkedIn](https://www.linkedin.com/id/)
 
-Also, consult me on [Upwork](https://www.upwork.com/services/product/development-it-android-mobile-development-with-kotlin-or-java-ai-ml-integration-1759209675878653952?ref=project_share) or [Fastwork](https://fastwork.id/user/rijalmyd) for building a project or bug fixing your code.
+Also, consult me on [Upwork](https://www.upk.com/services/product/development-it-android-mobile-development-with-kotlin-or-java-ai-ml-integration-1759209675878653952?ref=project_share) or [Fastwork](https://fastwork.id/user) for building a project or bug fixing your code.
 
 <p align="left">
   <a href="https://github.com/rijalmyd">
