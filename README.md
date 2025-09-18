@@ -11,6 +11,6 @@ Also, consult me on [Upwork](https://www.upk.com/services/product/development-it
 <p align="left">
   <a href="https://github.com/rijalmyd">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rijalmyd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rijalmyd&hide=jupyter%20notebook" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rijalmyd&layout=compact&langs_count=9&theme=algoliaa&hide=jupyter%20notebook"/>
   </a>
 </p>
